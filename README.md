@@ -1,5 +1,6 @@
-# mapper
-A Distributed Mapper to do Topological Data Analysis on Graphs 
+# Mapper for Graphs
+ 
+Using A  Distributed Mapper to do Topological Data Analysis on Graphs 
 
 How can we TDA to turn high dimensional data about graph nodes (telco and/or bank users) into a 2-D representation for better insights? 
 
