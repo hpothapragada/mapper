@@ -5,11 +5,11 @@ How can we TDA to turn high dimensional data about graph nodes (telco and/or ban
 
 Here are some useful links about TDA 
 
-	[KDNuggets Blog Post](http://www.kdnuggets.com/2015/09/ayasdi-topological-analysis-machine-learning.html)
-	[Ayasdi White Paper](https://s3.amazonaws.com/cdn.ayasdi.com/wp-content/uploads/2015/02/13112031/Whitepaper-TDA-and-Machine-Learning-Better-Together-July-2-2016.pdf)
-	[Ayasdi Blog](https://www.ayasdi.com/blog/)
-	[Mapper Algorithm Page](http://danifold.net/mapper)
-	[Mapper PyPi](https://pypi.python.org/pypi/mapper)
+[KDNuggets Blog Post](http://www.kdnuggets.com/2015/09/ayasdi-topological-analysis-machine-learning.html)
+[Ayasdi White Paper](https://s3.amazonaws.com/cdn.ayasdi.com/wp-content/uploads/2015/02/13112031/Whitepaper-TDA-and-Machine-Learning-Better-Together-July-2-2016.pdf)
+[Ayasdi Blog](https://www.ayasdi.com/blog/)
+[Mapper Algorithm Page](http://danifold.net/mapper)
+[Mapper PyPi](https://pypi.python.org/pypi/mapper)
 
 For problems such as churn and segmentation, TDA could be a useful tool that distinguishes itself from clustering.
 ([Mapper creator's blog post](https://www.ayasdi.com/blog/machine-intelligence/why-tda-and-clustering-are-different/))
