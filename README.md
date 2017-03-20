@@ -21,5 +21,3 @@ For problems such as churn and segmentation, TDA could be a useful tool that dis
 
 However, a scalable, distributed version of the Mapper Algorithm is not well known, and probably not fully formed as of March 17th, 2017. 
 
- Just another comment added. 
-
